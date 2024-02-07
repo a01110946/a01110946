@@ -1,0 +1,22 @@
+# Ignorar el directorio del entorno virtual
+venv_A52/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de compilación y bytecodes de Python
+__pycache__/
+*.py[cod]
+
+# Paquetes de distribución
+*.egg-info/
+dist/
+build/
+
+# Archivos de configuración de herramientas de desarrollo
+.vscode/
+.idea/
+
+# Archivos de entornos virtuales alternativos
+.env
