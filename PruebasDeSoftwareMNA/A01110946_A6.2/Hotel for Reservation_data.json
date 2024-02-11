@@ -1,0 +1,1 @@
+{"name": "Hotel for Reservation", "location": "Reservation Location", "rooms": [{"room_number": 101, "room_type": "double", "price": 150, "is_available": true}]}
